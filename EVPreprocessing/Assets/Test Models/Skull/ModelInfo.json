@@ -1,0 +1,11 @@
+{
+    Caption: "Skull",
+    IconFileName: "skull_icon.png",
+    Layers: [
+        {
+            "Caption": "Body",
+            "DataType": "anatomy",
+            "Directory": "skull_body"
+        }
+    ]
+}
